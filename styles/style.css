@@ -185,12 +185,6 @@ svg {
 
 /* Nav Section */
 /* header */
-.img-logo{
-  max-width: 1.5em;
-  margin: auto;
-  border-radius: 50%;
-}
-
 .header {
   background-color: #5474FD;
   box-shadow: 1px 1px 4px 0 rgba(216, 38, 121, 0.1);
@@ -363,8 +357,6 @@ svg {
   font-size: 2em;
   color: #5474FD;
  }
-
-
 
 /* Section Footer */
 #main-footer {
